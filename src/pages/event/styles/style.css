@@ -1,0 +1,11 @@
+.bg-withus {
+  background-image: url(../../../assets/images/event-bg.jpg);
+}
+
+.bg-testimonies {
+  background-image: url(../../../assets/images/testimonies-bg.jpg);
+}
+
+.service-bg {
+  background-image: var(--bg-image);
+}
